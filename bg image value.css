@@ -1,0 +1,11 @@
+h1{
+    height: 1200px;
+    width: 100%;
+    border: 8px solid black;
+    background-image: url(./suvu6.jpg);
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-position:center;
+    background-attachment: scroll;  
+    /*background-size:cover; */
+}
